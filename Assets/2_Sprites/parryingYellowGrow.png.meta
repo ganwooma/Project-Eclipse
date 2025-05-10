@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: e112e689bb915c64ebf5a612174b2925
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8868223892903825440
+    second: parryingYellowGrow_0
+  - first:
+      213: 7478993318654284674
+    second: parryingYellowGrow_1
+  - first:
+      213: 5089492810750056402
+    second: parryingYellowGrow_2
+  - first:
+      213: 4303177745091595846
+    second: parryingYellowGrow_3
+  - first:
+      213: 5558426855992200307
+    second: parryingYellowGrow_4
+  - first:
+      213: 3574130841059251887
+    second: parryingYellowGrow_5
+  - first:
+      213: -7244997924602124877
+    second: parryingYellowGrow_6
+  - first:
+      213: 8527074929775603700
+    second: parryingYellowGrow_7
+  - first:
+      213: -4271603700470240078
+    second: parryingYellowGrow_8
+  - first:
+      213: -3187554809504734532
+    second: parryingYellowGrow_9
+  - first:
+      213: -682925796604215399
+    second: parryingYellowGrow_10
+  - first:
+      213: -6528044896938714156
+    second: parryingYellowGrow_11
+  - first:
+      213: 2635128925760398401
+    second: parryingYellowGrow_12
+  - first:
+      213: 1015236869052506969
+    second: parryingYellowGrow_13
+  - first:
+      213: -2658560068037478180
+    second: parryingYellowGrow_14
+  - first:
+      213: -2249720997179667571
+    second: parryingYellowGrow_15
+  - first:
+      213: -7363645542770078756
+    second: parryingYellowGrow_16
+  - first:
+      213: -3173940289607115415
+    second: parryingYellowGrow_17
+  - first:
+      213: -7998931722256759252
+    second: parryingYellowGrow_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: parryingYellowGrow_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 13
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0201a2d05a2421b70800000000000000
+      internalID: 8868223892903825440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parryingYellowGrow_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 9
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28398e34cc8bac760800000000000000
+      internalID: 7478993318654284674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parryingYellowGrow_2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d759affeb281a640800000000000000
+      internalID: 5089492810750056402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parryingYellowGrow_3
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 37
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e0d852c55f7bb30800000000000000
+      internalID: 4303177745091595846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parryingYellowGrow_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 15
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c086596cf732d40800000000000000
+      internalID: 5558426855992200307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parryingYellowGrow_5
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 18
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6da1a301dd99130800000000000000
+      internalID: 3574130841059251887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parryingYellowGrow_6
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 18
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5e5a1f5c8947b90800000000000000
+      internalID: -7244997924602124877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parryingYellowGrow_7
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 23
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffe9626871465670800000000000000
+      internalID: 8527074929775603700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parryingYellowGrow_8
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc2a3cf01738b4c0800000000000000
+      internalID: -4271603700470240078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parryingYellowGrow_9
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 17
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2e1650ac783c3d0800000000000000
+      internalID: -3187554809504734532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parryingYellowGrow_10
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 17
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f74753b92c586f0800000000000000
+      internalID: -682925796604215399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parryingYellowGrow_11
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 26
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db9a28d0c9b765a0800000000000000
+      internalID: -6528044896938714156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parryingYellowGrow_12
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 18
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1442e45ebcbd19420800000000000000
+      internalID: 2635128925760398401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parryingYellowGrow_13
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 17
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95321cead88d61e00800000000000000
+      internalID: 1015236869052506969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parryingYellowGrow_14
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 2
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8769a24b5ea1bd0800000000000000
+      internalID: -2658560068037478180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parryingYellowGrow_15
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 17
+        width: 205
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b4e5f2ca267c0e0800000000000000
+      internalID: -2249720997179667571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parryingYellowGrow_16
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 3
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb0d43a4631fc990800000000000000
+      internalID: -7363645542770078756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parryingYellowGrow_17
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ddaa37f16e3f3d0800000000000000
+      internalID: -3173940289607115415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parryingYellowGrow_18
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 2
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2648409af51ef090800000000000000
+      internalID: -7998931722256759252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      parryingYellowGrow_0: 8868223892903825440
+      parryingYellowGrow_1: 7478993318654284674
+      parryingYellowGrow_10: -682925796604215399
+      parryingYellowGrow_11: -6528044896938714156
+      parryingYellowGrow_12: 2635128925760398401
+      parryingYellowGrow_13: 1015236869052506969
+      parryingYellowGrow_14: -2658560068037478180
+      parryingYellowGrow_15: -2249720997179667571
+      parryingYellowGrow_16: -7363645542770078756
+      parryingYellowGrow_17: -3173940289607115415
+      parryingYellowGrow_18: -7998931722256759252
+      parryingYellowGrow_2: 5089492810750056402
+      parryingYellowGrow_3: 4303177745091595846
+      parryingYellowGrow_4: 5558426855992200307
+      parryingYellowGrow_5: 3574130841059251887
+      parryingYellowGrow_6: -7244997924602124877
+      parryingYellowGrow_7: 8527074929775603700
+      parryingYellowGrow_8: -4271603700470240078
+      parryingYellowGrow_9: -3187554809504734532
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
